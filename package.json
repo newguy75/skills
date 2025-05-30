@@ -4,6 +4,8 @@
   "description": "<<<<<<< HEAD\r \"# zh-convert\"\r =======\r # Getting Started with Create React App",
   "main": "convert.js",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
     "fast-geoip": "^1.1.88",
     "opencc-js": "^1.0.5"
   },
