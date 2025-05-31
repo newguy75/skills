@@ -1,0 +1,12 @@
+{
+  "name": "filevaild",
+  "version": "1.0.0",
+  "main": "validate.js",
+  "scripts": {
+    "start": "node  validate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
